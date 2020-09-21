@@ -2,3 +2,4 @@
 ## Zach Kitchen
 ## zjktzy@umsystem.edu
 
+Welcome! Use the directory above to navigate to different homework assignments.
