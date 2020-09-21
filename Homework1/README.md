@@ -1,5 +1,4 @@
 # CS456-Human-Computer-Interface Personal Web Page
-## Assignment:
 ![Homework1Assignment](https://raw.githubusercontent.com/zjktzy/CS456-Human-Computer-Interface/master/Homework1/images/Homework1Assignment.PNG)
 
 ### Examples of GOOD UI:
