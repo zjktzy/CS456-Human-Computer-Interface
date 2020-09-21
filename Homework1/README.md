@@ -4,7 +4,7 @@
 
 ### Examples of GOOD UI:
 - Spotify
-![Homework1good1](url)
+![Homework1good1](https://raw.githubusercontent.com/zjktzy/CS456-Human-Computer-Interface/master/Homework1/images/Homework1good1.PNG)
     - Purpose of interface:
         - Discover new music.
     - Aspect I find good:
@@ -12,7 +12,7 @@
     - Justification:
         - The left pane allows users to navigate music they have already saved or added to their playlists. The middle pane allows users to explore new or current artists. The right pane displays what friends are listening to. These different functions are kept consistenly in the same position making the user experience easily intuitive.
 - TeamSpeak
-![Homework1good2](url)
+![Homework1good2](https://raw.githubusercontent.com/zjktzy/CS456-Human-Computer-Interface/master/Homework1/images/Homework1good2.PNG)
     - Purpose of interface:
         - Allow users to connect to voice chat servers.
     - Aspect I find good:
@@ -22,7 +22,7 @@
 
 ### Examples of BAD UI:
 - Netflix App for Amazon Fire TV
-![Homework1bad1](url)
+![Homework1bad1](https://raw.githubusercontent.com/zjktzy/CS456-Human-Computer-Interface/master/Homework1/images/Homework1bad1.PNG)
     - Purpose of interface:
         - Allow users to browse movies/TV shows.
     - Aspect I find bad:
@@ -30,7 +30,7 @@
     - Justification:
         - The user is bombarded with audio/video specifically chosen to be attention-grabbing. The interface was designed this way so that users will have a constant stream of movie/TV advertisements which could result in them watching more Netflix. This could be improved by removing autoplay while browsing and allow users to just watch the trailer if they would like a taste of the content.
 - Cerner Workday Web Interface
-![Homework1bad2](url)
+![Homework1bad2](https://raw.githubusercontent.com/zjktzy/CS456-Human-Computer-Interface/master/Homework1/images/Homework1bad2.PNG)
     - Purpose of interface:
         - Ensure associates can locate and complete required training modules.
     - Aspect I find bad:
